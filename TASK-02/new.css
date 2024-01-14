@@ -1,0 +1,35 @@
+body{
+     background-color: rgb(139, 216, 226);
+     margin: 5%;
+}
+
+#tittle{
+    text-align: center;
+    font-size: 7vh;
+    color: green;
+text-decoration-line: underline;
+}
+h2{
+    text-align: center;
+    font-size: 4vh;
+}
+
+img{
+    display: inline-block;
+    margin-left: 7cm;
+    margin-right: auto;
+    width: 50%;
+   
+}
+#tribute-data{
+    font-size: 21px;
+   color: rgb(40, 95, 74);
+    font-family: Georgia;
+    
+}
+h1.tittle-vikram{
+    font-size: 35px;
+    color:black;
+    text-align: center;
+
+}
